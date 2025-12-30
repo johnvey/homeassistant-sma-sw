@@ -3,6 +3,7 @@
   "name": "SunnyBoy Inverter Speedwire",
   "config_flow": true,
   "documentation": "https://github.com/johnvey/homeassistant-sma-sw",
+  "issue_tracker": "https://github.com/johnvey/homeassistant-sma-sw/issues",
   "version": "0.0.2",
   "requirements": [
     "sma-query-sw"

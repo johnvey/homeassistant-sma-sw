@@ -1,3 +1,6 @@
+NOTE: This fork is mostly about packaging this up to be added via HACS instead
+of a manual install
+
 # SMA SunnyBoy Inverter SpeedWire™ integration
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
